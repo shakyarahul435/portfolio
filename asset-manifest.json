@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Rahul_Shakya/static/css/main.fbc4e4bb.css",
+    "main.js": "/Portfolio_Rahul_Shakya/static/js/main.a189f894.js",
+    "static/js/453.6264690d.chunk.js": "/Portfolio_Rahul_Shakya/static/js/453.6264690d.chunk.js",
+    "index.html": "/Portfolio_Rahul_Shakya/index.html",
+    "main.fbc4e4bb.css.map": "/Portfolio_Rahul_Shakya/static/css/main.fbc4e4bb.css.map",
+    "main.a189f894.js.map": "/Portfolio_Rahul_Shakya/static/js/main.a189f894.js.map",
+    "453.6264690d.chunk.js.map": "/Portfolio_Rahul_Shakya/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc4e4bb.css",
+    "static/js/main.a189f894.js"
+  ]
+}
